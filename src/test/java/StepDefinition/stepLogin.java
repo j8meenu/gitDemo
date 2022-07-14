@@ -40,6 +40,8 @@ public class stepDefLogin {
 	public void user_is_redirected_to_landing_page() {
 		// Print title of landing page
 	   System.out.println("Title of page is : "+driver.getTitle());
+	   System.out.println("Test");
+	   System.out.println("Git Test");
 	   driver.quit();
 	}
 
